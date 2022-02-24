@@ -11,7 +11,7 @@
 - 📚 Ask me about anything related to **React** , **NodeJS** , **JavaScript**, **Python**, **AWS** **and** **Hacking**
 
 - 📫 How to reach me : pvitor.dev@gmail.com 
-
+##
 ## 📲Social 
 
    <a href="https://www.linkedin.com/in/pvdev/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ah" width="40" height="40" style="max-width: 100%;"> </a> 
