@@ -15,6 +15,7 @@
 ## 📲 Social 
 
    <a href="https://www.linkedin.com/in/pvdev/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ah" width="40" height="40" style="max-width: 100%;">   <a href="https://www.instagram.com/pvitor_dev/" rel="nofollow"> <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" alt="ah" width="40" height="40" style="max-width: 100%;">
+    <a href="https://www.instagram.com/pvitor_dev/" rel="nofollow"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="ah" width="40" height="40" style="max-width: 100%;">
 
 
 ## 💻 Stacks 
