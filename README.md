@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Paulo Vitor 
+# 👋 Hi, I’m Paulo Vitor  
 
 
 ## 🚀About me
--   🧔🏻‍♂️Brazilian, and I'm 20 years old
+-   🧔🏻‍♂️Brazilian 🇧🇷, and I'm 21 years old;
 
-- 👨🏻‍💻 I’m a Full Stack developer, hacker and bug hunter 🪲
+- 👨🏻‍💻 I am a backend software engineer, hacker and bug hunter 🪲
 
-- 📖 I'm currently learning **BlockChain and Game Development**
+- 📖 I'm currently learning **Mobile Development**
 
-- 📚 Ask me about anything related to **React** , **NodeJS** , **JavaScript**, **Python**, **AWS** **and** **Hacking**
+- 📚 Ask me about anything related to **NodeJs** , **TypeScript** , **Microservices** **and** **Hacking**
 
 - 📫 How to reach me : pvitor.dev@gmail.com 
 ##
